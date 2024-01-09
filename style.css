@@ -1,1 +1,27 @@
+div {
 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#navbar {
+
+    background-color: rgb(64, 207, 200);
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+#menubar {
+
+    background-color: rgb(213, 255, 235);
+    font-size: 18px;
+    color: rgb(32, 35, 77);
+}
+
+
+
+#mainbar {
+
+    background-color: rgb(95, 121, 119);
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
